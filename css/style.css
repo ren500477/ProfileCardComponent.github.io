@@ -41,7 +41,7 @@ width: 350
 height 140 */
 
 .card-header {
-  background: url(/images/bg-pattern-card.svg) center/cover;
+  background: url(bg-pattern-card.svg) center/cover;
   height: 140px;
   margin: 0 -1px 0 0;
 }
